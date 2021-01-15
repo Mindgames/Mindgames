@@ -1,4 +1,5 @@
 ### Hi there 👋
+Until this get updated, find me here:
 
 <!--
 **Mindgames/Mindgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Nextgrid](https://nextgrid.ai)  
+[Linkedin](https://www.linkedin.com/in/imathias/)  
+[Twitter](https://twitter.com/mathiiias123)
+
+
