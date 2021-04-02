@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 [Linkedin](https://www.linkedin.com/in/imathias/)  
 [Twitter](https://twitter.com/mathiiias123)
 
+Or 
+
+[Buy me a coffee](https://www.buymeacoffee.com/mindgames)
+
 
