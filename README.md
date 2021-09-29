@@ -1,10 +1,10 @@
 ### Hello World 👋
-I like deep tech and artificial intelligence. 
+I like deep tech and artificial intelligence.   
 I care about innovation, I belive it's important.  
 
-- 🚀  [Nextgrid](https://nextgrid.ai) co-founder    
-- 🌱  [ALEX](https://alexsystems.ai) founder 
-- 👊  [Deep Learning Labs](https://dll.nextgrid.ai) creator 
+- 🚀&nbsp;  &nbsp;[Nextgrid](https://nextgrid.ai) co-founder    
+- 🌱&nbsp;  &nbsp;[ALEX](https://alexsystems.ai) founder 
+- 👊&nbsp;  &nbsp;[Deep Learning Labs](https://dll.nextgrid.ai) creator 
 
 ## Connect:
 
