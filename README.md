@@ -2,9 +2,9 @@
 I like deep tech and artificial intelligence. 
 I care about innovation, I belive it's important.  
 
-- 🔭 [Nextgrid](https://nextgrid.ai) co-founder    
+- 🚀 [Nextgrid](https://nextgrid.ai) co-founder    
 - 🌱 [ALEX](https://alexsystems.ai) founder 
-- 🌱 [Deep Learning Labs](https://dll.nextgrid.ai) creator 
+- 👊 [Deep Learning Labs](https://dll.nextgrid.ai) creator 
 
 ## Connect:
 
