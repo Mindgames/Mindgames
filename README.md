@@ -2,6 +2,7 @@
 I like deep tech and artificial intelligence.   
 I care about innovation, I belive it's important.  
 
+- 🧙‍♂️&nbsp;  &nbsp;[New Native](https://newnative.ai) co-founder  
 - 🚀&nbsp;  &nbsp;[Nextgrid](https://nextgrid.ai) co-founder    
 - 🌱&nbsp;  &nbsp;[ALEX](https://alexsystems.ai) founder 
 - 👊&nbsp;  &nbsp;[Deep Learning Labs](https://dll.nextgrid.ai) creator 
