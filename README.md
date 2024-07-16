@@ -2,9 +2,10 @@
 I like deep tech and artificial intelligence.   
 I care about innovation, I belive it's important.  
 
+- 🧙‍♂️&nbsp;  &nbsp;[ReplyPilot](https://replypilot.app) founder  
 - 🧙‍♂️&nbsp;  &nbsp;[New Native](https://newnative.ai) co-founder  
-- 🚀&nbsp;  &nbsp;[Nextgrid](https://nextgrid.ai) co-founder    
-- 👊&nbsp;  &nbsp;[lablab](https://lablab.ai) creator 
+- 🚀&nbsp;  &nbsp;[Nextgrid](https://nextgrid.ai) founder    
+- 👊&nbsp;  &nbsp;[lablab](https://lablab.ai) founder 
 
 ## Connect:
 
