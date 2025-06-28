@@ -2,7 +2,7 @@
 I like deep tech and artificial intelligence.   
 I care about innovation, I belive it's important.  
 
-- 🧙‍♂️&nbsp;  &nbsp;[ReplyPilot](https://grais.ai) Grais founder  
+- 🧙‍♂️&nbsp;  &nbsp;[Grais](https://grais.ai) founder  
 - 🧙‍♂️&nbsp;  &nbsp;[ReplyPilot](https://replypilot.app) founder  
 - 🧙‍♂️&nbsp;  &nbsp;[New Native](https://newnative.ai) co-founder  
 - 🚀&nbsp;  &nbsp;[Nextgrid](https://nextgrid.ai) founder    
