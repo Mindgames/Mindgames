@@ -14,15 +14,16 @@ I care about innovation, I belive it's important.
 
 ## Connect:
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imathias/)
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imathias/)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mathiiias123)
+[<img align="left" alt="x" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/mathiiias123)
 <br>
 <br>
 
 ## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mindgames&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mindgames&theme=dark&hide_border=true)
+
+## Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mindgames&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20GitHub%20activity)
 
 [Buy me a coffee](https://www.buymeacoffee.com/mindgames)
-
-
