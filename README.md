@@ -7,8 +7,8 @@ I care about innovation, I belive it's important.
 
 
 ## History
-- 🧙‍♂️&nbsp;  &nbsp;[New Native](https://newnative.ai) co-founder  
 - 👊&nbsp;  &nbsp;[lablab](https://lablab.ai) founder 
+- 🧙‍♂️&nbsp;  &nbsp;[New Native](https://newnative.ai) co-founder  
 - 🚀&nbsp;  &nbsp;[Nextgrid](https://web.archive.org/web/20230115201148/https://nextgrid.ai/) founder    
 
 
