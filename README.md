@@ -7,18 +7,16 @@ I care about innovation, I belive it's important.
 
 
 ## History
-- 🧙‍♂️&nbsp;  &nbsp;[ReplyPilot](https://replypilot.app) founder  
 - 🧙‍♂️&nbsp;  &nbsp;[New Native](https://newnative.ai) co-founder  
-- 🚀&nbsp;  &nbsp;[Nextgrid](https://nextgrid.ai) founder    
 - 👊&nbsp;  &nbsp;[lablab](https://lablab.ai) founder 
+- 🚀&nbsp;  &nbsp;[Nextgrid](https://web.archive.org/web/20230115201148/https://nextgrid.ai/) founder    
+
 
 ## Connect:
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imathias/)
+[Linkedin](https://www.linkedin.com/in/imathias/) ||
+[X.com](https://x.com/mathiiias123)
 
-[<img align="left" alt="x" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/mathiiias123)
-<br>
-<br>
 
 ## GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mindgames&theme=dark&hide_border=true)
