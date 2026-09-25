@@ -4,6 +4,9 @@ I care about innovation, I belive it's important.
 
 
 [Grais](https://grais.ai) founder  
+[Liendeadline](https://liendeadline.com) co-founder
+[Replypilot](https://replypilot.app) co-founder
+[Lookprep](https://lookprep.com) founder
 
 
 ## History
